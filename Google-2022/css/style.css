@@ -1,0 +1,106 @@
+.logo {
+    margin-top: 200px;
+    text-align:  center;
+    background-color: #292929;
+    
+}
+
+.btk {
+    background-color: #292929;
+    color:white;
+    border-radius: 10px;
+    border-color: rgb(255, 255, 255);
+    background-size: cover;
+}
+
+.btn {
+    color:white;
+    text-decoration:none;
+    border-radius: 20px;
+    border-color: white;
+    background-color: #292929;
+}
+
+.box1 {
+    text-align: center;
+    background-color: #292929;
+
+ 
+}
+
+.box2 {
+    background-color: #292929;
+
+}
+
+.ilkkutu {
+    text-align: right;
+    background-color: #292929;
+    position: absolute;
+    top: 0px;
+    right: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    align-items: center;
+    padding: 6px;
+}
+
+.googlearama {
+    text-align: center;
+    background-color: #292929;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+
+.box3 p {
+    background-color: #292929;
+    position:fixed;
+    bottom: 100px;
+    right: 1400px;
+    padding: 15px 30px;
+    font-family: Arial, Helvetica, sans-serif;
+   
+    color: #edf1f6;
+
+    
+}
+
+.karbon {
+    color: #999da2;
+    display: block;
+    padding: 15px;
+    white-space: nowrap;
+    text-align: center;
+    position:fixed;
+    bottom: 60px;
+    right: 650px;
+    background-color: #292929;
+    text-decoration:none;
+
+
+}
+
+
+.box4 {
+    margin-top: 275px;
+    text-decoration:none;
+    position: fixed;
+    right: 1080px;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+
+
+.beyaz {
+    color: white;
+    background-color: #292929;
+    text-decoration:none
+    
+}
+
+.body {
+    background-color: #292929;
+}
